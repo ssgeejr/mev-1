@@ -31,3 +31,10 @@
 *Chagas is a production server assumed to be safely protected within the hospital’s internal network. However, due to a critical misconfiguration, it was unintentionally exposed to the guest network. This oversight allowed a pivoted attack from a previously compromised endpoint, demonstrating how even well-segmented infrastructure can be breached when boundary controls fail.*
 
 
+## 🎭 Role-Playing Scenario — Tabletop Exercise
+
+**Robinette**, one of the directors at *Willow Creek Community Hospital*, a small rural hospital, finishes her morning tasks. She packs her hospital-issued laptop into her bag and leaves the office; her employee badge still clipped to her blazer. The badge displays her name, title, and the hospital’s logo. Wanting to review some reports, she decides to stop by *StarHacks*, a cozy coffee shop near the hospital, before continuing her day.
+
+At *StarHacks*, Robinette orders a chamomile tea, settles at a small table, and opens her laptop. She connects to the coffee shop’s open Wi-Fi network, **"StarHacks_Guest,"** which requires no password. The unsecured network leaves her device exposed, but Robinette, focused on work, doesn’t notice. She logs in and begins reviewing reports and responding to emails from her team.
+
+**Agent Smith**, a cybercriminal, is already at StarHacks, monitoring the open Wi-Fi with a packet-sniffing tool to identify vulnerable devices. As he scans the room, he notices Robinette’s badge, clearly showing her role as a director at Willow Creek Community Hospital. Recognizing the hospital as a potential target for sensitive patient data, he zeroes in on her laptop’s network activity, preparing to exploit the unsecured connection.
