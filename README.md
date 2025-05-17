@@ -1,4 +1,4 @@
-# Hospital Cybersecurity Tabletop Presentation
+# Cybersecurity Tabletop Presentation
 
 ## Cybersecurity Breach Demonstration - System Roles
 
